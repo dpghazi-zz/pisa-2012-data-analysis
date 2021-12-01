@@ -1,2 +1,10 @@
 # PISA-2012-Data-Analysis
-Analyzing PISA 2012 Dataset to see how students performed globally (Python)
+Using Univariate, Bivariate, and Multivariate Analyses to see how students performed globally from PISA 2012 Dataset (Python)
+
+- Key Concepts
+  - Dissect the dataframe by keeping the variables that I find valuable to help answer my project insights.
+  - Data Asessing and Data Cleaning
+  - Data Exploration
+     -Univariate Analysis
+     -Bivariate Analysis
+     -Multivariate Analysis
