@@ -8,3 +8,4 @@ Using Univariate, Bivariate, and Multivariate Analyses to see how students perfo
     - Univariate Analysis
     - Bivariate Analysis
     - Multivariate Analysis
+Python and Jupyter Notebook
