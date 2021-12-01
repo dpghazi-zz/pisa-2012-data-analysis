@@ -5,6 +5,6 @@ Using Univariate, Bivariate, and Multivariate Analyses to see how students perfo
   - Dissect the dataframe by keeping the variables that I find valuable to help answer my project insights.
   - Data Asessing and Data Cleaning
   - Data Exploration
-      -Univariate Analysis
-      -Bivariate Analysis
-      -Multivariate Analysis
+    - Univariate Analysis
+    - Bivariate Analysis
+    - Multivariate Analysis
