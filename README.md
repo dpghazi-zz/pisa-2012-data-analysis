@@ -1,4 +1,4 @@
-# PISA-2012-Data-Analysis
+# PISA 2012 Data Analysis
 Using Univariate, Bivariate, and Multivariate Analyses to see how students performed globally from PISA 2012 Dataset
 
 - Key Concepts
