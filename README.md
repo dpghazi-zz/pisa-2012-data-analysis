@@ -13,7 +13,7 @@ Using Univariate, Bivariate, and Multivariate Analyses to see how students perfo
     - Bivariate Analysis
     - Multivariate Analysis
 
-### Tools & Technologies
+### Tools & Libraries 
 * Python
 * Jupyter
 * Pandas
