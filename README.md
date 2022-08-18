@@ -11,7 +11,7 @@ Implemented univariate, bivariate, and multivariate Analyses to see how students
     - Multivariate Analysis
 
 ### Language & Tools
-* Python (Pandas, NumPy, Matplotlib)
+* Python (pandas, NumPy, Matplotlib)
 
 ## Featured Notebook
 * [PISA 2012 Data Analysis](https://dpghazi.github.io/projects/pisa-2012-data-analysis.html)
